@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Alireza 👋
 
-<!--
-**alireza-hme/alireza-hme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about Machine Learning (ML), Natural Language Processing (NLP), Data Science, and Software Development.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m learning more about Data Science & Machine Learning.
+- 📫 How to reach me: hme.alireza@gmail.com.
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, JavaScript
+- **Frameworks & Libraries**: ReactJs, ExpressJs, Django, Django REST Framework, Scikit-learn, Numpy, Pandas, Matplotlib.
+- **Tools**: Latex.
+
+
+## 📫 Connect with Me
+
+- [LinkedIn](www.linkedin.com/in/alireza-h-9579b6286)
+  
+
+Feel free to explore my repositories and connect with me!
