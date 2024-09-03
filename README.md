@@ -28,8 +28,7 @@ I’m passionate about Machine Learning (ML), Natural Language Processing (NLP),
 
 
 ## 📫 Connect with Me
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alireza-h-9579b6286/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alireza-h-9579b6286/)
 
   
 
