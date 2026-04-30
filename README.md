@@ -1,11 +1,10 @@
 # Hi there, I'm Alireza 👋
 
-I’m passionate about Machine Learning (ML), Natural Language Processing (NLP), Data Science, and Software Development.
+I’m passionate about DevOps, Network Engineering, and Software Development.
 
 ## 🚀 About Me
 
-- 🌱 I’m learning more about Data Science & Machine Learning.
-- 📫 How to reach me: hme.alireza@gmail.com.
+- 🔍 I’m focused on research in Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), and Natural Language Processing (NLP).
 
 ## 🛠️ Tech Stack & Tools
 
@@ -13,7 +12,6 @@ I’m passionate about Machine Learning (ML), Natural Language Processing (NLP),
   <img src="https://img.shields.io/badge/DRF-FFCA28?style=flat&logo=django&logoColor=black" alt="DRF Badge" width="100"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python Badge" width="100"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React Badge" width="100"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django Badge" width="100"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" alt="LaTeX Badge" width="100"/>
   <img src="https://img.shields.io/badge/NumPy-013B57?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge" width="100"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge" width="100"/>
@@ -24,8 +22,6 @@ I’m passionate about Machine Learning (ML), Natural Language Processing (NLP),
 
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/alireza-h-9579b6286/)
+📧 hme.alireza@gmail.com
 
-  
-
-Feel free to explore my repositories and connect with me!
+Feel free to explore my repositories!
