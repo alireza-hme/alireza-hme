@@ -14,13 +14,13 @@ I’m passionate about DevOps, Network Engineering, and Software Development.
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" width="100"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat&logo=githubactions&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=flat&logo=githubactions&logoColor=white" width="100"/>
-  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat" width="100"/>
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white" width="100"/>
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat" width="100"/>
+  <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat" width="100"/>
 </p>
 
 
